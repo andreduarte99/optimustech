@@ -1,0 +1,41 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    margin-top: 1em;
+}
+
+.link__logo{
+    text-decoration: none;
+}
+
+.itens__navbar-logo{
+    margin: 0.2em 0 0 0.5em;
+    font-family:var(--fonte-navbar);
+    color: var(--cor-itens-navbar-logo);
+    font-size: 1.1em;
+}
+
+.navbar__itens{
+    margin-right: 35em;
+}
+
+.itens__navbar, .itens__navbar-button{
+    padding: 1em;
+    text-decoration: none;
+    font-family: var(--fonte-navbar);
+    color: var(--cor-itens-navbar);
+    font-size: 1em;
+}
+
+
+.button__cad{
+    font-family: var(--fonte-navbar);
+    color: var(--cor-itens-navbar-button-cad);
+    background-color: var(--cor-button-cad);
+    border-radius: 0.7em;
+}
