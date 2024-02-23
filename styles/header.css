@@ -39,3 +39,13 @@
     background-color: var(--cor-button-cad);
     border-radius: 0.7em;
 }
+
+.sobre{
+    text-align: center;
+}
+
+.titulo__sobre{
+    font-family: var(--fonte-sobre);
+    font-size: 1em;
+    color: var(--cor-titulo);
+}

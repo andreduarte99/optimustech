@@ -2,8 +2,10 @@
 
 :root{
     --fonte-navbar: "inter", sans-serif;
+    --fonte-sobre: "inter", sans-serif;
     --cor-itens-navbar-logo: #3A404E;
     --cor-itens-navbar: #667085;
     --cor-itens-navbar-button-cad: #FFFFFF;
     --cor-button-cad: #8E2424;
+    --cor-titulo: #8E2424;
 }
