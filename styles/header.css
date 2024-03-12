@@ -15,7 +15,7 @@
 
 .itens__navbar-logo{
     margin: 0.2em 0 0 0.5em;
-    font-family:var(--fonte-navbar);
+    font-family:var(--fonte-principal);
     color: var(--cor-itens-navbar-logo);
     font-size: 1.1em;
 }
@@ -27,43 +27,15 @@
 .itens__navbar, .itens__navbar-button{
     padding: 1em;
     text-decoration: none;
-    font-family: var(--fonte-navbar);
-    color: var(--cor-itens-navbar);
+    font-family: var(--fonte-principal);
+    color: var(--cor-secundaria);
     font-size: 1em;
 }
 
 
 .button__cad{
-    font-family: var(--fonte-navbar);
+    font-family: var(--fonte-principal);
     color: var(--cor-itens-navbar-button-cad);
     background-color: var(--cor-button-cad);
     border-radius: 0.7em;
-}
-
-.sobre{
-    text-align: center;
-    padding-top:3em;
-}
-
-.titulo__sobre{
-    font-family: var(--fonte-sobre);
-    font-weight: 600;
-    font-size: 1em;
-    color: var(--cor-titulo);
-    margin-bottom: 2em;
-}
-
-.destaque__sobre{
-    padding: 2em;
-    font-family: var(--fonte-sobre);
-    font-weight: 600;
-    font-size:2.5em;
-}
-
-.texto__sobre{
-    margin-top: 2em;
-    font-family: var(--fonte-sobre);
-    font-weight: 400;
-    color: var(--cor-itens-navbar);
-    padding:0 40em 0 40em;
 }

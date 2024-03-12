@@ -1,0 +1,26 @@
+.titulo__metricas{
+    color: var(--cor-titulo);
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 3.8em;
+}
+
+.subtitulo__metricas{
+    font-family: (--fonte-principal);
+    font-weight: 600;
+    font-size: 1.3em;
+}
+
+.texto__metricas{
+    font-family: (--fonte-principal);
+    font-weight: 400;
+    color: var(--cor-secundaria);
+    font-size: 1em;
+}
+
+.metricas__container{
+    display: flex;
+    justify-content: space-between;
+    gap:15em;
+    padding: 4em 7em 0em 7em;
+}

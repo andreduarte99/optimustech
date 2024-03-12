@@ -1,11 +1,12 @@
 @import url("styles/header.css");
+@import url("styles/sobre.css");
+@import url("styles/metricas.css");
 
 :root{
-    --fonte-navbar: "inter", sans-serif;
-    --fonte-sobre: "inter", sans-serif;
+    --fonte-principal: "inter", sans-serif;
     --cor-itens-navbar-logo: #3A404E;
-    --cor-itens-navbar: #667085;
     --cor-itens-navbar-button-cad: #FFFFFF;
+    --cor-secundaria: #667085;
     --cor-button-cad: #8E2424;
     --cor-titulo: #8E2424;
 }
