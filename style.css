@@ -1,6 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/sobre.css");
 @import url("styles/metricas.css");
+@import url("styles/vagas.css");
 
 :root{
     --fonte-principal: "inter", sans-serif;
@@ -9,4 +10,5 @@
     --cor-secundaria: #667085;
     --cor-button-cad: #8E2424;
     --cor-titulo: #8E2424;
+    --background-titulo: #f8edeb;
 }
