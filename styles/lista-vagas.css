@@ -1,0 +1,35 @@
+.lista-vagas__container{
+    align-items: center;
+    margin:0 30% 0 30%;
+}
+
+.categoria{
+    border: 1px solid var(--cor-borda);
+    border-radius: 1em;
+    padding: 2em;
+    margin-bottom: 2em;
+}
+
+.titulo-categoria{
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 1.4em;
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+}
+
+.titulo__lista-vagas{
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 1.3em;
+    display: block;
+    padding-bottom: 1.5em;
+}
+
+.descricao__lista-vagas{
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    font-size: 1em;
+    display: inline-block;
+}
