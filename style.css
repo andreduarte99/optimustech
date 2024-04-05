@@ -3,7 +3,8 @@
 @import url("styles/metricas.css");
 @import url("styles/vagas.css");
 @import url("styles/lista-vagas.css");
-
+@import url("styles/depoimentos.css");
+ 
 :root{
     --fonte-principal: "inter", sans-serif;
     --cor-itens-navbar-logo: #3A404E;

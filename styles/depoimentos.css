@@ -1,0 +1,31 @@
+.depoimentos__container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo__depoimentos{
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 1em;
+    color: var(--cor-titulo);
+}
+
+.texto__depoimento{
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+.autor__depoimento{
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    font-size: 1em;
+}
+
+.cargo__depoimento{
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    font-size: 0.9em;
+    color: var(--cor-secundaria);
+}
