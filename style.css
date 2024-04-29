@@ -4,6 +4,7 @@
 @import url("styles/vagas.css");
 @import url("styles/lista-vagas.css");
 @import url("styles/depoimentos.css");
+@import url("styles/footer.css");
  
 :root{
     --fonte-principal: "inter", sans-serif;
@@ -12,6 +13,9 @@
     --cor-secundaria: #667085;
     --cor-button-cad: #8E2424;
     --cor-titulo: #8E2424;
+    --cor-copyright: #98A2B3;
     --background-titulo: #f8edeb;
     --cor-borda: #EAECF0;
+    --background-footer: #F9FAFB;
+    --border-color: #D0D5DD;
 }
