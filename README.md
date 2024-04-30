@@ -6,11 +6,12 @@ Projeto em HTML e CSS da OptimusTech. 7 Days of Code de HTML e CSS.
 | -------------  | --- |
 | :sparkles: Nome        | **OptimusTech**
 | :label: Tecnologias | HTML e CSS.
-| :rocket: URL         | https://andreduarte99.github.io/aluraplay/
-| :fire: Desafio     | https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos
+| :rocket: URL         | https://andreduarte99.github.io/optimustech/
+| :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/andreduarte99/aluraplay/assets/42449246/d9d93e07-5726-45eb-9290-5f3f7f16eb60#vitrinedev)
+
+![Captura de tela de 2024-04-29 21-15-04](https://github.com/andreduarte99/optimustech/assets/42449246/cb8f96ef-5186-40c6-a6fc-a6035d3a438c#vitrinedev)
 
 ## Detalhes do projeto
 
