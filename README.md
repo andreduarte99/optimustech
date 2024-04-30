@@ -23,25 +23,13 @@ Projeto em HTML e CSS da OptimusTech. 7 Days of Code de HTML e CSS.
     :white_check_mark: Projeto finalizado  :white_check_mark:
 </h3>
 <h3 align="center">
-    :hammer_and_wrench: Funcionalidades
-</h3>
-<p align="center">
-   :clipboard: Projeto do Aluraplay utilizando flexbox, grid e media queries para layouts responsivos.
-</p>
-<p align="center">
-   :clipboard: É possível navegar pelo site nas telas para desktops, tablets e smartphones.
-</p>
-<h3 align="center">
     :books: Aprendizado no projeto
 </h3>
 <p align="center">
-   :clipboard: Construir um site utilizando HTML e CSS aplicando flexbox e grid.
+   :clipboard: página real a partir de um layout no Figma.
 </p>
 <p align="center">
-   :clipboard: Entender como interpretar um protótipo de site criado no Figma.
-</p>
-<p align="center">
-   :clipboard: Aprender utilizar media queries na construção de layouts responsivos.
+   :clipboard: Conceitos como 'div', 'section', inline para imagens, medidas responsivas em CSS e Flexbox e etc.
 </p>
 <p align="center">
    :clipboard: Realizar o deploy de um site através do Github Pages.
