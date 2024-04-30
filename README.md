@@ -26,7 +26,7 @@ Projeto em HTML e CSS da OptimusTech. 7 Days of Code de HTML e CSS.
     :books: Aprendizado no projeto
 </h3>
 <p align="center">
-   :clipboard: página real a partir de um layout no Figma.
+   :clipboard: Página real a partir de um layout no Figma.
 </p>
 <p align="center">
    :clipboard: Conceitos como 'div', 'section', inline para imagens, medidas responsivas em CSS e Flexbox e etc.
